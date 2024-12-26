@@ -14,7 +14,7 @@ The Design Patterns Library is a comprehensive web application that serves as an
 
 ## Design Patterns Included
 
-- Event Aggregator
+- Aggregator
 - API Gateway
 - Saga
 - Circuit Breaker
