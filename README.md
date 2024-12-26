@@ -145,6 +145,10 @@ Contributions are welcome! If you’d like to add new design patterns, improve t
 - Add support for multiple languages
 - Enhance AI capabilities for contextual recommendations
 
+## Demo Video
+
+https://github.com/user-attachments/assets/d5379d28-613b-4d9d-b56d-8028e33ff719
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
