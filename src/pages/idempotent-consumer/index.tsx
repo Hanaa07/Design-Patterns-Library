@@ -108,9 +108,10 @@ LOGGER.info("Request: {}", req);
         "Scalability: In high-throughput systems, maintaining a large set of processed messages can impact performance and resource usage."
       ]}
       references={[
-        { name: "Design Patterns: Elements of Reusable Object-Oriented Software", link: "https://amzn.to/3UACtrU" },
+        { name: "Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions", link: "https://amzn.to/4dznP2Y" },
+        { name: "Designing Data-Intensive Applications", link: "https://amzn.to/3UADv7Q" },
       ]}
-      githubLink="https://github.com/yourusername/event-aggregator-example"
+      githubLink="https://github.com/Hanaa07/Microservices-Idempotent-Consumer-Design-Pattern"
     />
   )
 }

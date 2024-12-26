@@ -82,14 +82,15 @@ public static void main(String[] args) {
         "Requires careful tuning of thresholds and timeout periods to balance between responsiveness and protection."
       ]}
       references={[
-        { name: "Building Microservices", link: "https://amzn.to/3UACtrU" },
-        { name: "Cloud Native Patterns: Designing change-tolerant software", link: "https://amzn.to/3uV12WN" },
-        { name: "Designing Data-Intensive Applications", link: "https://amzn.to/3PfRk7Y"},
-        { name: "Microservices Patterns: With examples in Java", link: "https://amzn.to/3UyWD5O"},
-        { name: "API Gateway (microservices.io)", link: "http://microservices.io/patterns/apigateway.html"},
-        { name: "Building Microservices: Using an API Gateway (nginx)", link: "https://www.nginx.com/blog/building-microservices-using-an-api-gateway/"},
+        { name: "Building Microservices: Designing Fine-Grained Systems", link: "https://amzn.to/43Dx86g" },
+        { name: "Microservices Patterns: With examples in Java", link: "https://amzn.to/3xaZwk0" },
+        { name: "Release It! Design and Deploy Production-Ready Software", link: "https://amzn.to/4aqTNEP"},
+        { name: "Understand CircuitBreaker Design Pattern with Simple Practical Example (ITNEXT)", link: "https://itnext.io/understand-circuitbreaker-design-pattern-with-simple-practical-example-92a752615b42"},
+        { name: "Circuit Breaker (Martin Fowler)", link: "https://martinfowler.com/bliki/CircuitBreaker.html"},
+        { name: "Fault tolerance in a high volume, distributed system (Netflix)", link: "https://medium.com/netflix-techblog/fault-tolerance-in-a-high-volume-distributed-system-91ab4faae74a"},
+        { name: "Circuit Breaker pattern (Microsoft)", link: "https://docs.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker"},
       ]}
-      githubLink="https://github.com/yourusername/event-aggregator-example"
+      githubLink="https://github.com/Hanaa07/Circuit-Breaker-Design-Pattern"
     />
   )
 }

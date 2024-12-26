@@ -83,9 +83,13 @@ public class App {
         "Increase in the number of objects."
       ]}
       references={[
-        { name: "Design Patterns: Elements of Reusable Object-Oriented Software", link: "https://amzn.to/3UACtrU" },
+        { name: "Design Patterns: Elements of Reusable Object-Oriented Software", link: "https://amzn.to/3w0pvKI" },
+        { name: "Functional Programming in Java", link: "https://amzn.to/3JUIc5Q" },
+        { name: "Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software", link: "https://amzn.to/49NGldq" },
+        { name: "Patterns of Enterprise Application Architecture", link: "https://amzn.to/3WfKBPR" },
+        { name: "Refactoring to Patterns", link: "https://amzn.to/3VOO4F5" },
       ]}
-      githubLink="https://github.com/yourusername/event-aggregator-example"
+      githubLink="https://github.com/Hanaa07/Strategy-Design-Pattern"
     />
   )
 }

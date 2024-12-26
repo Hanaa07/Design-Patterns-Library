@@ -157,9 +157,11 @@ public static void main(String[] args) {
         "A facade can become a god object coupled to all classes of an app if not implemented correctly."
       ]}
       references={[
-        { name: "Design Patterns: Elements of Reusable Object-Oriented Software", link: "https://amzn.to/3UACtrU" },
+        { name: "Design Patterns: Elements of Reusable Object-Oriented Software", link: "https://amzn.to/3w0pvKI" },
+        { name: "Effective Java", link: "https://amzn.to/4cGk2Jz" },
+        { name: "Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software", link: "https://amzn.to/49NGldq" },
       ]}
-      githubLink="https://github.com/yourusername/event-aggregator-example"
+      githubLink="https://github.com/Hanaa07/Facade-Design-Pattern"
     />
   )
 }

@@ -140,9 +140,11 @@ public class ProductController {
         "Can become complex to manage in large-scale systems."
       ]}
       references={[
-        { name: "Design Patterns: Elements of Reusable Object-Oriented Software", link: "https://amzn.to/3UACtrU" },
+        { name: "Building Microservices", link: "https://amzn.to/3UACtrU" },
+        { name: "OpenTelemetry Documentation", link: "https://opentelemetry.io/docs/" },
+        { name: "Distributed tracing (microservices.io)", link: "https://microservices.io/patterns/observability/distributed-tracing.html" },
       ]}
-      githubLink="https://github.com/yourusername/event-aggregator-example"
+      githubLink="https://github.com/Hanaa07/Microservices-Distributed-Tracing-Design-Pattern"
     />
   )
 }

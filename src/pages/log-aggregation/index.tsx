@@ -102,9 +102,12 @@ public class App {
         "Can lead to high data volumes requiring significant storage and processing resources."
       ]}
       references={[
-        { name: "Design Patterns: Elements of Reusable Object-Oriented Software", link: "https://amzn.to/3UACtrU" },
+        { name: "Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry", link: "https://amzn.to/44vDTat" },
+        { name: "Logging in Action: With Fluentd, Kubernetes and more", link: "https://amzn.to/3JQLzdT" },
+        { name: "Release It! Design and Deploy Production-Ready Software", link: "https://amzn.to/3Uul4kF" },
+        { name: "Pattern: Log aggregation (microservices.io)", link: "https://microservices.io/patterns/observability/application-logging.html" },
       ]}
-      githubLink="https://github.com/yourusername/event-aggregator-example"
+      githubLink="https://github.com/Hanaa07/Microservices-Log-Aggregation-Design-Pattern"
     />
   )
 }

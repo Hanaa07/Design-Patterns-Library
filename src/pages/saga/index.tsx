@@ -69,9 +69,13 @@ public class SagaApplication {
         "Potential latency due to asynchronous nature."
       ]}
       references={[
-        { name: "Design Patterns: Elements of Reusable Object-Oriented Software", link: "https://amzn.to/3UACtrU" },
+        { name: "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems", link: "https://amzn.to/3y6yv1z" },
+        { name: "Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions", link: "https://amzn.to/3WcFVui" },
+        { name: "Microservices Patterns: With examples in Java", link: "https://amzn.to/3UyWD5O" },
+        { name: "Pattern: Saga (microservices.io)", link: "https://microservices.io/patterns/data/saga.html" },
+        { name: "Saga distributed transactions pattern (Microsoft)", link: "Saga distributed transactions pattern (Microsoft)" },
       ]}
-      githubLink="https://github.com/yourusername/event-aggregator-example"
+      githubLink="https://github.com/Hanaa07/Saga-Design-Pattern"
     />
   )
 }

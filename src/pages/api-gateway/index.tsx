@@ -125,7 +125,7 @@ public class ApiGateway {
         { name: "API Gateway (microservices.io)", link: "http://microservices.io/patterns/apigateway.html"},
         { name: "Building Microservices: Using an API Gateway (nginx)", link: "https://www.nginx.com/blog/building-microservices-using-an-api-gateway/"},
       ]}
-      githubLink="https://github.com/yourusername/event-aggregator-example"
+      githubLink="https://github.com/Hanaa07/Microservices-Api-Gateway-Design-Pattern"
     />
   )
 }

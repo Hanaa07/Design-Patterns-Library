@@ -85,9 +85,11 @@ public static void main(String[] args) {
         "Overuse can make the code less readable if the underlying complexity of the object creation is low or unnecessary."
       ]}
       references={[
-        { name: "Design Patterns: Elements of Reusable Object-Oriented Software", link: "https://amzn.to/3UACtrU" },
+        { name: "Design Patterns: Elements of Reusable Object-Oriented Software", link: "https://amzn.to/3w0pvKI" },
+        { name: "Effective Java", link: "https://amzn.to/4cGk2Jz" },
+        { name: "Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software", link: "https://amzn.to/49NGldq" },
       ]}
-      githubLink="https://github.com/yourusername/event-aggregator-example"
+      githubLink="https://github.com/Hanaa07/Factory-Design-Pattern"
     />
   )
 }

@@ -86,9 +86,16 @@ curl http://localhost:50004/product
         "Complexity: Implementing an aggregator can introduce complexity, especially in terms of data aggregation logic and error handling when dealing with multiple services."
       ]}
       references={[
-        { name: "Design Patterns: Elements of Reusable Object-Oriented Software", link: "https://amzn.to/3UACtrU" },
+        { name: "Building Microservices: Designing Fine-Grained Systems", link: "https://amzn.to/43aGpSR" },
+        { name: "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems", link: "https://amzn.to/3y6yv1z" },
+        { name: "Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services", link: "https://amzn.to/3T9g9Uj" },
+        { name: "Microservice Architecture: Aligning Principles, Practices, and Culture", link: "https://amzn.to/3T9jZNi" },
+        { name: "Microservices Patterns: With examples in Java", link: "https://amzn.to/4a5LHkP" },
+        { name: "Pattern: API Composition", link: "https://microservices.io/patterns/data/api-composition.html" },
+        { name: "Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization", link: "https://amzn.to/4a0Vk4c" },
+        { name: "Microservice Design Patterns (Arun Gupta)", link: "http://web.archive.org/web/20190705163602/http://blog.arungupta.me/microservice-design-patterns/" },
       ]}
-      githubLink="https://github.com/yourusername/event-aggregator-example"
+      githubLink="https://github.com/Hanaa07/Microservices-Aggregrator-Design-Pattern"
     />
   )
 }

@@ -58,8 +58,11 @@ export default function Builder() {
       ]}
       references={[
         { name: "Design Patterns: Elements of Reusable Object-Oriented Software", link: "https://amzn.to/3UACtrU" },
+        { name: "Effective Java", link: "https://amzn.to/4cGk2Jz" },
+        { name: "Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software", link: "https://amzn.to/49NGldq" },
+        { name: "Refactoring to Patterns", link: "https://amzn.to/3VOO4F5" },
       ]}
-      githubLink="https://github.com/Hanaa07/Builder"
+      githubLink="https://github.com/Hanaa07/Builder-Design-Pattern"
     />
   )
 }
