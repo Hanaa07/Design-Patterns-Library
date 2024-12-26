@@ -1,5 +1,8 @@
 # Design Patterns Library
 
+> [!IMPORTANT]  
+> The design patterns are accessible via Github links inside the app. We made sure to implement each one of the Design Patterns in an independant repository.
+
 ## Overview
 
 The Design Patterns Library is a comprehensive web application that serves as an interactive resource for learning and understanding various software design patterns. Built with React and Next.js, this project aims to provide developers with detailed explanations, examples, and use cases for common design patterns.
